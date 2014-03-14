@@ -1,6 +1,6 @@
 # Openmouse Proxy
 
-read more about the [openmouse suite]('https://github.com/rockitbaby/openmouse').
+learn more about [OPENMOUSE](https://github.com/rockitbaby/openmouse).
 
 ---
 
