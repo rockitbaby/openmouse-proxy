@@ -1,0 +1,21 @@
+{
+  "name": "openmouse-proxy",
+  "version": "0.0.1",
+  "description": "A proxy between openmouse-extension and openmouse-sever",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rockitbaby/openmouse-proxy"
+  },
+  "author": "Michael Schieben <michael@mschieben.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/rockitbaby/openmouse-proxy/issues"
+  },
+  "devDependencies": {
+    "http-proxy": "~1.0.2"
+  }
+}
